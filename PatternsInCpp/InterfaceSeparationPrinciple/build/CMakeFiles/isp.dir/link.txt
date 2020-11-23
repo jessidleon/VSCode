@@ -1,1 +1,0 @@
-/usr/bin/x86_64-linux-gnu-g++-7  -g  -rdynamic CMakeFiles/isp.dir/src/main.cpp.o CMakeFiles/isp.dir/src/document.cpp.o CMakeFiles/isp.dir/src/printerScanner.cpp.o CMakeFiles/isp.dir/src/purePrinter.cpp.o  -o isp 
