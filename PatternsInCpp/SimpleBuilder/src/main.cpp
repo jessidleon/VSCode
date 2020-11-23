@@ -23,6 +23,5 @@ int main(int argc, char const* argv[]) {
 
   std::cout << root->format() << std::endl << std::flush;
 
-
   return 0;
 }
