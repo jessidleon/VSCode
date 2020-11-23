@@ -1,0 +1,1 @@
+/usr/bin/g++-7  -g  -rdynamic CMakeFiles/SimpleBuilder.dir/src/main.cpp.o CMakeFiles/SimpleBuilder.dir/src/htmlElement.cpp.o  -o SimpleBuilder 

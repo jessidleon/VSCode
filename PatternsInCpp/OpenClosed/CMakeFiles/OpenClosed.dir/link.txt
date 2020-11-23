@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/OpenClosed.dir/src/main.cpp.o CMakeFiles/OpenClosed.dir/src/product.cpp.o CMakeFiles/OpenClosed.dir/src/colorCriteria.cpp.o CMakeFiles/OpenClosed.dir/src/filter.cpp.o  -o OpenClosed 

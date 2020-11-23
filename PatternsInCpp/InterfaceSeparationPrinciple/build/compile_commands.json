@@ -1,0 +1,22 @@
+[
+{
+  "directory": "/home/jessid/VSCodeProjects/PatternsInCpp/InterfaceSeparationPrinciple/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7   -I/home/jessid/VSCodeProjects/PatternsInCpp/InterfaceSeparationPrinciple/include  -g   -std=gnu++1z -o CMakeFiles/isp.dir/src/main.cpp.o -c /home/jessid/VSCodeProjects/PatternsInCpp/InterfaceSeparationPrinciple/src/main.cpp",
+  "file": "/home/jessid/VSCodeProjects/PatternsInCpp/InterfaceSeparationPrinciple/src/main.cpp"
+},
+{
+  "directory": "/home/jessid/VSCodeProjects/PatternsInCpp/InterfaceSeparationPrinciple/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7   -I/home/jessid/VSCodeProjects/PatternsInCpp/InterfaceSeparationPrinciple/include  -g   -std=gnu++1z -o CMakeFiles/isp.dir/src/document.cpp.o -c /home/jessid/VSCodeProjects/PatternsInCpp/InterfaceSeparationPrinciple/src/document.cpp",
+  "file": "/home/jessid/VSCodeProjects/PatternsInCpp/InterfaceSeparationPrinciple/src/document.cpp"
+},
+{
+  "directory": "/home/jessid/VSCodeProjects/PatternsInCpp/InterfaceSeparationPrinciple/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7   -I/home/jessid/VSCodeProjects/PatternsInCpp/InterfaceSeparationPrinciple/include  -g   -std=gnu++1z -o CMakeFiles/isp.dir/src/printerScanner.cpp.o -c /home/jessid/VSCodeProjects/PatternsInCpp/InterfaceSeparationPrinciple/src/printerScanner.cpp",
+  "file": "/home/jessid/VSCodeProjects/PatternsInCpp/InterfaceSeparationPrinciple/src/printerScanner.cpp"
+},
+{
+  "directory": "/home/jessid/VSCodeProjects/PatternsInCpp/InterfaceSeparationPrinciple/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7   -I/home/jessid/VSCodeProjects/PatternsInCpp/InterfaceSeparationPrinciple/include  -g   -std=gnu++1z -o CMakeFiles/isp.dir/src/purePrinter.cpp.o -c /home/jessid/VSCodeProjects/PatternsInCpp/InterfaceSeparationPrinciple/src/purePrinter.cpp",
+  "file": "/home/jessid/VSCodeProjects/PatternsInCpp/InterfaceSeparationPrinciple/src/purePrinter.cpp"
+}
+]

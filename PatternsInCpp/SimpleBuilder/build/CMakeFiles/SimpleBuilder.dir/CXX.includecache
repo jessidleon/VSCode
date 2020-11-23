@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../src/include/htmlElement.hpp
+memory
+-
+string
+-
+vector
+-
+
+/home/jessid/VSCodeProjects/PatternsInCpp/SimpleBuilder/src/htmlElement.cpp
+htmlElement.hpp
+/home/jessid/VSCodeProjects/PatternsInCpp/SimpleBuilder/src/htmlElement.hpp
+iostream
+-
+sstream
+-
+
+/home/jessid/VSCodeProjects/PatternsInCpp/SimpleBuilder/src/main.cpp
+iostream
+-
+string
+-
+htmlElement.hpp
+/home/jessid/VSCodeProjects/PatternsInCpp/SimpleBuilder/src/htmlElement.hpp
+sstream
+-
+

@@ -1,0 +1,22 @@
+[
+{
+  "directory": "/home/jessid/VSCodeProjects/PatternsInCpp/OpenClosed/build",
+  "command": "/usr/bin/g++-7    -g   -o CMakeFiles/OpenClosed.dir/src/main.cpp.o -c /home/jessid/VSCodeProjects/PatternsInCpp/OpenClosed/src/main.cpp",
+  "file": "/home/jessid/VSCodeProjects/PatternsInCpp/OpenClosed/src/main.cpp"
+},
+{
+  "directory": "/home/jessid/VSCodeProjects/PatternsInCpp/OpenClosed/build",
+  "command": "/usr/bin/g++-7    -g   -o CMakeFiles/OpenClosed.dir/src/product.cpp.o -c /home/jessid/VSCodeProjects/PatternsInCpp/OpenClosed/src/product.cpp",
+  "file": "/home/jessid/VSCodeProjects/PatternsInCpp/OpenClosed/src/product.cpp"
+},
+{
+  "directory": "/home/jessid/VSCodeProjects/PatternsInCpp/OpenClosed/build",
+  "command": "/usr/bin/g++-7    -g   -o CMakeFiles/OpenClosed.dir/src/colorCriteria.cpp.o -c /home/jessid/VSCodeProjects/PatternsInCpp/OpenClosed/src/colorCriteria.cpp",
+  "file": "/home/jessid/VSCodeProjects/PatternsInCpp/OpenClosed/src/colorCriteria.cpp"
+},
+{
+  "directory": "/home/jessid/VSCodeProjects/PatternsInCpp/OpenClosed/build",
+  "command": "/usr/bin/g++-7    -g   -o CMakeFiles/OpenClosed.dir/src/filter.cpp.o -c /home/jessid/VSCodeProjects/PatternsInCpp/OpenClosed/src/filter.cpp",
+  "file": "/home/jessid/VSCodeProjects/PatternsInCpp/OpenClosed/src/filter.cpp"
+}
+]
